@@ -44,3 +44,6 @@ every injection attempt in the test set.
 ## References
 OWASP LLM Top 10 · Dual LLM pattern · LlamaFirewall / LLM Guard · 2026
 in-the-wild reporting (Forcepoint X-Labs, Google, Unit 42)
+
+---
+© 2026 0xlightsec. Licensed under [CC BY 4.0](LICENSE).
